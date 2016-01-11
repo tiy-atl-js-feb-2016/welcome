@@ -39,7 +39,7 @@ We will utilize version control for all of your work and specifically we will us
 
 ## Install Party & Prework
 
-You can view all of the prework [HERE](https://github.com/tiy-atl-js-sept-2015/Welcome/tree/master/Prework). All of this needs to be complete before our Install Party.
+You can view all of the prework [HERE](https://github.com/tiy-atl-js-feb-2016/Welcome/tree/master/Prework). All of this needs to be complete before our Install Party.
 
 We will be installing lots of things on Sunday, so please make sure to have the following downloaded and installed *BEFORE* you get to our space.
 
