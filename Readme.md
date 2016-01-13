@@ -1,6 +1,6 @@
 ## Welcome
 
-Welcome to The Iron Yard! We are super excited to start class on September 21st, 2015 with all of you. We've put together a short list of things you should start reviewing before class on Monday. 
+Welcome to The Iron Yard! We are super excited to start class on February 1st, 2016 with all of you. We've put together a short list of things you should start reviewing before class on Monday. 
 
 Pay especially close attention to the list of requirements for our install party.
 
